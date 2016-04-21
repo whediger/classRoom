@@ -1,2 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE class-room>
+
+<galvanize>
+  <time datetime='2016-04-21T09:40'><time>
+  <basement>
+    <people-aquarium lights="on">
+      <dry-erase>
+        <note>Welcome to Galvanize!</note>
+        <note>Women who code, Girl code it</note>
+        <note>Codeacademy.com</note>
+        <note>Free code camp</note>
+        <note>web dev</note>
+        <note>treehouse</note>
+      </dry-erase>
+      <podium un-use='true'>
+        <av-equiptment in-use='false'>
+        </av-equiptment>
+      </podium>
+      <podium in-use='true'></podium>
+      <table>
+        <chair person="false"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+      </table>
+      <table>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+      </table>
+      <table>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="false"></chair>
+      </table>
+      <table>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+        <chair person="true"></chair>
+      </table>
+    </people-aquarium>
+  </basement>
+</galvanize>
